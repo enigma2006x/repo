@@ -15,7 +15,7 @@
 		8393EC1E269213EA00FF85E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8393EC1C269213EA00FF85E9 /* LaunchScreen.storyboard */; };
 		8393EC29269213EA00FF85E9 /* WizenonymousTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8393EC28269213EA00FF85E9 /* WizenonymousTests.swift */; };
 		8393EC34269213EA00FF85E9 /* WizenonymousUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8393EC33269213EA00FF85E9 /* WizenonymousUITests.swift */; };
-		8393EC542693A44600FF85E9 /* LastChallenge.zip in Resources */ = {isa = PBXBuildFile; fileRef = 8393EC532693A44600FF85E9 /* LastChallenge.zip */; };
+		8393EC6F2694AB1100FF85E9 /* LastChallenge.zip in Resources */ = {isa = PBXBuildFile; fileRef = 8393EC6E2694AB1100FF85E9 /* LastChallenge.zip */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +50,7 @@
 		8393EC2F269213EA00FF85E9 /* WizenonymousUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WizenonymousUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8393EC33269213EA00FF85E9 /* WizenonymousUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WizenonymousUITests.swift; sourceTree = "<group>"; };
 		8393EC35269213EA00FF85E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8393EC532693A44600FF85E9 /* LastChallenge.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = LastChallenge.zip; sourceTree = "<group>"; };
+		8393EC6E2694AB1100FF85E9 /* LastChallenge.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = LastChallenge.zip; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +101,7 @@
 		8393EC10269213E900FF85E9 /* Wizenonymous */ = {
 			isa = PBXGroup;
 			children = (
-				8393EC532693A44600FF85E9 /* LastChallenge.zip */,
+				8393EC6E2694AB1100FF85E9 /* LastChallenge.zip */,
 				8393EC11269213E900FF85E9 /* AppDelegate.swift */,
 				8393EC13269213E900FF85E9 /* SceneDelegate.swift */,
 				8393EC15269213E900FF85E9 /* ViewController.swift */,
@@ -235,7 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8393EC1E269213EA00FF85E9 /* LaunchScreen.storyboard in Resources */,
-				8393EC542693A44600FF85E9 /* LastChallenge.zip in Resources */,
+				8393EC6F2694AB1100FF85E9 /* LastChallenge.zip in Resources */,
 				8393EC1B269213EA00FF85E9 /* Assets.xcassets in Resources */,
 				8393EC19269213E900FF85E9 /* Main.storyboard in Resources */,
 			);
